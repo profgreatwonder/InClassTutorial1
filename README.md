@@ -3,3 +3,7 @@
 - Jupyter Notebook
 * Learnt the basics of Markdown Language
 + First Class on Jupyter and introductory python by Carnegie Melon University
+
+<ul>
+  <li>Anaconda</li>
+</ul>
